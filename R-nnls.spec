@@ -4,7 +4,7 @@
 #
 Name     : R-nnls
 Version  : 1.4
-Release  : 15
+Release  : 16
 URL      : https://cran.r-project.org/src/contrib/nnls_1.4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/nnls_1.4.tar.gz
 Summary  : The Lawson-Hanson algorithm for non-negative least squares
