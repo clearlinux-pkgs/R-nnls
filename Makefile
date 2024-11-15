@@ -1,5 +1,5 @@
 PKG_NAME := R-nnls
-URL = https://cran.r-project.org/src/contrib/nnls_1.5.tar.gz
+URL = https://ftp.osuosl.org/pub/cran/src/contrib/nnls_1.6.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
